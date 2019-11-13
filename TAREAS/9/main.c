@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
-int main (int arc, char* argu[]){
+int main (int argc, char* argu[]){
 	
 	//se declaran las variables 
 	int numero1, a, resul;
